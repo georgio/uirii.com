@@ -13,10 +13,10 @@
 
 h1 {
     margin-top: 27.75px;
-    font-size: 12px;
-    color: #CACACA;
+    font-size: 14px;
+    color: #bcbcbc;
     letter-spacing: 0.076em;
-    padding-bottom: 112.2px;
+
 }
 
 body {
@@ -32,7 +32,7 @@ body {
 }
 
 h2 {
-    font-size: 12px;
+    font-size: 14px;
     margin-top: 27.5px;
     color: #A8A8A8;
     letter-spacing: 0.155em;
@@ -41,7 +41,7 @@ h2 {
 
 .Content_description {
     font-size: 12px;
-    color: #CACACA;
+    color: #bcbcbc;
     font-family: Helvetica Light;
     margin-top: 35.35px;
     line-height: 15pt;
@@ -50,7 +50,7 @@ h2 {
 .contact {
     width: 337.22px;
     float: left;
-    font-size: 12px;
+    font-size: 14px;
     margin-left: 199.33px;
     border-top: 2px solid #CACACA;
 }
@@ -61,8 +61,8 @@ h2 {
 }
 
 .Contact_type {
-    color: #CACACA;
-    font-family: Helvetica Light;
+    color: #bcbcbc;
+    font-family: Helvetica;
     margin-top: 24.75px;
     line-height: 13pt;
     padding-bottom: 90.75px;
@@ -80,7 +80,7 @@ h2 {
 }
 
 .Menulinks {
-    font-size: 12px;
+    font-size: 14px;
     color: #A8A8A8;
     margin-bottom: 2.63px;
     letter-spacing: 0.01em;
@@ -105,13 +105,13 @@ h2 {
 
 
 .bioevolvo {
-    font-size: 12px;
-    color: #CACACA;
-    font-family: Helvetica Light;
+    font-size: 14px;
+    color: #9f9f9f;
+    font-family: Helvetica;
     margin-top: 30.65px;
     line-height: 15pt;
     text-align: left;
-    margin-left: 140.97px;
+    margin-left: 13.97px;
 }
 a:link, a:visited {
   background-color: #F5F5F5;
@@ -133,7 +133,7 @@ iframe {
 .presslinks {
 font-size: 12px;
     color: #CACACA;
-    font-family: Helvetica Light
+    font-family: Helvetica;
         margin-left: 140.97px;
 }
 
@@ -142,7 +142,7 @@ font-size: 12px;
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
-  width: 300px;
+  width: 600px;
 }
 
 .gallery:hover {
@@ -150,15 +150,24 @@ font-size: 12px;
 }
 
 .gallery img {
-  width: 300;
-  height: 200;
+  width: 600;
+  height: 400;
 }
 
 .desc {
-  padding: 15px;
+  padding: 0.1px;
   text-align: center;
+  font-family: helvetica;
+    color: #bcbcbc;
+    font-size: 12px;
 }
 
 .photogallery {
-    margin-left: 48.04px;
+    margin-left: 40.04px;
+}
+
+.title img {
+    margin-left: 30px;
+    margin-top: 15px;
+    margin-bottom: 25px;
 }
